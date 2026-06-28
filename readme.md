@@ -20,6 +20,12 @@ for(let i=0;i<30;i++){
 
 ## 运行
 
+需要先安装 [Bun](https://bun.sh/)：
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
 `.env`(bun 自动加载):
 
 ```bash
